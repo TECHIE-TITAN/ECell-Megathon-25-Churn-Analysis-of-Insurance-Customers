@@ -1,0 +1,5 @@
+{
+  "name": "Insurance Churn Predictor with SHAP",
+  "description": "An interactive application that simulates predicting customer churn for an insurance company using a GBM model and provides explanations for the predictions with SH-AP.",
+  "requestFramePermissions": []
+}
